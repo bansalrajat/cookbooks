@@ -6,3 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+
+include_recipe 'curl'
+include_recipe 'tarball::default'
+include_recipe 'scm_java::install_java'
