@@ -1,4 +1,0 @@
-source "https://supermarket.chef.io"
-
-metadata
-cookbook 'curl', '~> 2.0.1'
